@@ -1,0 +1,3 @@
+# lib
+AngularJS.
+Some components
